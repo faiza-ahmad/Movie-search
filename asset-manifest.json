@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie-seach/static/css/main.fac1601f.css",
+    "main.js": "/Movie-seach/static/js/main.09097885.js",
+    "static/js/787.dfba6593.chunk.js": "/Movie-seach/static/js/787.dfba6593.chunk.js",
+    "static/media/mylogo.png": "/Movie-seach/static/media/mylogo.2f787cf7f9c9371fd0d5.png",
+    "index.html": "/Movie-seach/index.html",
+    "main.fac1601f.css.map": "/Movie-seach/static/css/main.fac1601f.css.map",
+    "main.09097885.js.map": "/Movie-seach/static/js/main.09097885.js.map",
+    "787.dfba6593.chunk.js.map": "/Movie-seach/static/js/787.dfba6593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac1601f.css",
+    "static/js/main.09097885.js"
+  ]
+}
